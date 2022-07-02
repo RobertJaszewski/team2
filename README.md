@@ -26,13 +26,13 @@ v.2.0
 
 v.2.1
 
-- wybór płci #Kamil
+[ ] wybór płci #Kamil
 
-- Specjalne obsługa dla kobiety pełnoletnich (aperol spritz gratis) #Paulina
+[ ] Specjalne obsługa dla kobiety pełnoletnich (aperol spritz gratis) #Paulina
 
 v.3.0
 
-- możliwość wybrania regionu EUROPA lub USA #Adam
+[ ] możliwość wybrania regionu EUROPA lub USA #Adam
 
-- walidacje danych wejsciowych poprawione
+[ ] walidacje danych wejsciowych poprawione
 
