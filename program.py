@@ -13,15 +13,15 @@ else:
 
 **********************************************
 
-płeć = input("Jaka jest Twoja plec?")
-wiek = input("Podaj swoj wiek: ")
+płeć = input("Jaka jest Twoja płeć?")
+wiek = input("Podaj swój wiek: ")
 #Sprawdzamy płeć oraz wiek użytkownika
 wiek = int(wiek)
-płeć = int(plec)
+płeć = int(płeć)
 płeć = input("Podaj płeć użytkownika: \n 'k'-kobieta \n 'm'-mężczyzna \n")
-if wiek >= 18:
-    print(Specjalna usługa dla kobiet pełnoletnich!)
-if płeć = 'k':
-    print(Dostajesz od nas APEROLA!)
+if wiek >= 120:
+    print("Specjalna usługa dla kobiet pełnoletnich!")
+if płeć == "k":
+    print("Dostajesz od nas APEROLA!")
 else:
-    exist("Jesteś pełnoletni ale nie jesteś kobietą")
+    exit("Jesteś pełnoletni ale nie jesteś kobietą")
