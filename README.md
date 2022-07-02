@@ -19,9 +19,9 @@ v1.1:
 
 v.2.0
 
-- obsługa użytkowników z USA (dorosły od 21) #Maciej
+[ ] obsługa użytkowników z USA (dorosły od 21) #Maciej
 
-- max limit (120 lat) #Robert
+[ ] max limit (120 lat) #Robert
 
 
 v.2.1
