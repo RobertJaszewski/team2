@@ -19,7 +19,7 @@ wiek = input("Podaj swój wiek: ")
 wiek = int(wiek)
 płeć = int(płeć)
 płeć = input("Podaj płeć użytkownika: \n 'k'-kobieta \n 'm'-mężczyzna \n")
-if wiek >= 120:
+if wiek <= 120:
     print("Specjalna usługa dla kobiet pełnoletnich!")
 if płeć == "k":
     print("Dostajesz od nas APEROLA!")
