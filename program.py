@@ -20,3 +20,18 @@ elif wiek > 50:
     print("W Twoim wieku alkohol jest już szkodliwy")
 else:
     exit("Jesteś za młody na alkohol")
+
+**********************************************
+
+płeć = input("Jaka jest Twoja płeć?")
+wiek = input("Podaj swój wiek: ")
+#Sprawdzamy płeć oraz wiek użytkownika
+wiek = int(wiek)
+płeć = int(płeć)
+płeć = input("Podaj płeć użytkownika: \n 'k'-kobieta \n 'm'-mężczyzna \n")
+if wiek <= 120:
+    print("Specjalna usługa dla kobiet pełnoletnich!")
+if płeć == "k":
+    print("Dostajesz od nas APEROLA!")
+else:
+    exit("Jesteś pełnoletni ale nie jesteś kobietą")
