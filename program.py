@@ -5,8 +5,11 @@ if wiek.isdigit() == False:
 wiek = int(wiek)
 if wiek >= 18 and wiek <= 50:
     print("Witaj w naszym sklepie z alkoholem")
-elif wiek > 50:
+elif wiek > 50 and wiek <= 120:
     print("Witaj w naszym sklepie z alkoholem")
     print("W Twoim wieku alkohol jest już szkodliwy")
+elif wiek > 120:
+    print("Maksmylany wiek to 120 lat")
 else:
     exit("Jesteś za młody na alkohol")
+
